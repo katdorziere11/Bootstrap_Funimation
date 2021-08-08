@@ -1,4 +1,16 @@
 header {
     background-color: rgb(75, 0, 130);
-    font-family: 'Rubik', sans-serif;
+    /* font-family: 'Rubik', sans-serif; */
+}
+
+.fixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    
+}
+
+.featured-plan {
+    margin-top: 10%;
 }
