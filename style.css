@@ -21,16 +21,22 @@ ul {
     font-size: 12px;
 }
 
-.watch, .compatibile, header {
+.watch, .compatibile, header, .custom-bg1, footer {
     background-color: #410099;
 }
 
-.custom-bg1 {
-    background-color: #410099;
-}
 
 .custom-border {
     border-style: solid;
     border-color: #410099;
     border-width: thin;
 }
+
+footer a {
+    text-decoration: none;
+}
+
+.navbar-nav li {
+    display: inline-block;
+}
+
