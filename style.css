@@ -6,6 +6,11 @@
     
 }
 
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+
 .featured-plan {
     margin-top: 10%;
 }
@@ -34,4 +39,9 @@ ul {
 
 footer a {
     text-decoration: none;
+}
+
+.bi-check {
+    color: rgb(26, 207, 26);
+
 }
